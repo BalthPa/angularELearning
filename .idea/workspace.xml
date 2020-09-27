@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="70f2108f-ec6b-4e17-bf3c-13066bb55cab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/cours-detail/cours-detail.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/cours-detail/cours-detail.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/html/html.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/html/html.component.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +67,7 @@
       <workItem from="1601047437317" duration="1233000" />
       <workItem from="1601144490842" duration="7000" />
       <workItem from="1601199923906" duration="15819000" />
-      <workItem from="1601221887902" duration="1492000" />
+      <workItem from="1601221887902" duration="2642000" />
     </task>
     <servers />
   </component>
@@ -79,10 +79,10 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="548" y="345" key="EditFileWatcherDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1601209664998" />
-    <state x="397" y="199" key="SettingsEditor" timestamp="1601223017962">
+    <state x="397" y="199" key="SettingsEditor" timestamp="1601225899329">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1601223017962" />
+    <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1601225899329" />
     <state width="600" height="428" key="javadoc.popup" timestamp="1601213032574">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
