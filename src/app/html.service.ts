@@ -23,7 +23,7 @@ export class HtmlService {
 
   getHtml(id: number): Observable<Html> {
     // TODO: send the message _after_ fetching the cours
-    this.textService.add('HtmlService: fetched cours id=${id}');
+    this.textService.add('HtmlService: fetched cours');
     return of(HTMLS.find(html => html.id === id));
 
   }
