@@ -1,0 +1,8 @@
+<div *ngIf="textService.contents.length">
+
+    <h2>Contenu du cours</h2>
+    <button class="clear"
+            (click)="textService.clear()">clear</button>
+    <div *ngFor='let content of textService.contents'> {{content}} </div>
+
+</div>

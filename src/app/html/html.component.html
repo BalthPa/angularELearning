@@ -1,0 +1,9 @@
+<h2>Les cours de développement Web</h2>
+
+<ul class="html">
+    <li *ngFor="let html of htmls">
+        <a routerLink="/detail{{html.id}}">
+            <span class="badge">{{html.id}}</span> {{html.name}}
+        </a>
+    </li>
+</ul>
