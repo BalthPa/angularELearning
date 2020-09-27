@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70f2108f-ec6b-4e17-bf3c-13066bb55cab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/html.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/html.service.ts" afterDir="false" />
-    </list>
+    <list default="true" id="70f2108f-ec6b-4e17-bf3c-13066bb55cab" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +64,7 @@
       <workItem from="1601047437317" duration="1233000" />
       <workItem from="1601144490842" duration="7000" />
       <workItem from="1601199923906" duration="15819000" />
+      <workItem from="1601221887902" duration="215000" />
     </task>
     <servers />
   </component>
@@ -78,10 +76,10 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="548" y="345" key="EditFileWatcherDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1601209664998" />
-    <state x="397" y="199" key="SettingsEditor" timestamp="1601221855706">
+    <state x="397" y="199" key="SettingsEditor" timestamp="1601222102126">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1601221855706" />
+    <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1601222102126" />
     <state width="600" height="428" key="javadoc.popup" timestamp="1601213032574">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
